@@ -1,3 +1,3 @@
 # Curricular-Vitae
-This is my curricular vitae page
+This is my Curricular Vitae (CV) page
 http://samiramohana.website2.me/
